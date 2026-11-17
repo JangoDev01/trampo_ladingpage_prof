@@ -4,6 +4,10 @@
 
 Landing page estática de demonstração para um fotógrafo profissional fictício, com seleção de trabalhos fotográficos e canais de contacto. O projeto usa React para compor a interface, TypeScript para validar os dados e Vite para desenvolvimento e geração dos ficheiros de publicação.
 
+## Código-fonte e ficheiro `.gitignore`
+
+Este projeto não inclui um ficheiro `.gitignore`: a entrega prevê que o cliente tenha acesso ao código-fonte completo do projeto. Assim, não há regras de ignore configuradas para ocultar ficheiros da entrega.
+
 ## Objetivos
 
 - Apresentar o portfólio fotográfico em uma única página, com navegação por secções.
